@@ -1,1 +1,2 @@
 Hello Git
+Adding more text to my first Git file on Day 1!
